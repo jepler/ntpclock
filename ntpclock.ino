@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2022 Jeff Epler
+//
+// SPDX-License-Identifier: GPL-3.0-only
+
 /*
     This sketch sends data via HTTP GET requests to data.sparkfun.com service.
 
